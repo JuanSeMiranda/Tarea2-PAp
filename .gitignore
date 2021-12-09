@@ -1,0 +1,11 @@
+build/
+target/
+.settings/
+src/main/webapp/META-INF
+src/main/webapp/WEB-INF
+.project
+.classpath
+.tern-project
+tarea1.jar
+pom.xml
+
